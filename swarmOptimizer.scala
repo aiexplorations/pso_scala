@@ -12,7 +12,7 @@ object swarmOptimizer {
 
     //Swarm parameters
     val swarmSize = 3000
-    val steps = 75
+    val steps = 100
 
 
     //Creating a new swarm
