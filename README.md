@@ -2,6 +2,8 @@
 
 Brief description: PSO algorithm for bivariate functions implemented in Scala
 
+Created by Rajesh RS ( http://twitter.com/rexplorations / https://in.linked.com/in/rajeshrs )
+
 Particle swarm optimization is a heuristic method for obtaining good solutions for mathematical optimization problems. It isn't a gradient based method and therefore will not allow you to find the exact minimum point (local or global). However, it can provide numerous "good enough" candidate solutions. The approach was originally developed by James Kennedy and Russell Eberhart at Purdue University in the US.
 
 The objective of this repo is to provide a simple interface for experimenting with a bivariate function optimizer based the particle swarm optimization approach. The benefits of Scala in this context are:
@@ -13,7 +15,7 @@ The objective of this repo is to provide a simple interface for experimenting wi
 
 The initial commit took little time to develop. I hope to update this with more functionality as time progresses!
 
-Created by Rajesh RS ( http://twitter.com/rexplorations / in.linked.com/rajeshrs )
+
 
 Comments and suggestions welcome!
 
